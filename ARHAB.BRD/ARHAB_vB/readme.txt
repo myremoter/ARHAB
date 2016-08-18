@@ -14,7 +14,7 @@
  * @date        2016.08.17
  * @author 	Boris L.V.
  * @contact     myremoter@gmail.com
- * @web site	vk.com/myremoter
+ * @web site	http://vk.com/myremoter
  * @license
  * CC BY-NC-ND
  * Creative Commons Attribution-NonCommercial-NoDerivatives
