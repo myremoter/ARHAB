@@ -1,4 +1,4 @@
- * @description ARHAB - IoT Shield for Arduino & OpenHAB. Betta version, not to make.
+﻿ * @description ARHAB - IoT Shield for Arduino & OpenHAB. Betta version, not to make.
  * @format      Gerber Format (RS-274-D), ASCII* 
  *
  * ARHAB_VB.BRD	Board
